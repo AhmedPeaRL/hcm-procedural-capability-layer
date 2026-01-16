@@ -1,0 +1,8 @@
+# Pipeline Stub
+# This pipeline is declarative only.
+
+pipeline:
+  name: inert_pipeline
+  state: disabled
+  execution: forbidden
+  trigger: none
