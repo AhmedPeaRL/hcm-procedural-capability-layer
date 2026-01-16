@@ -1,0 +1,7 @@
+{
+  "capability": "present",
+  "execution": "forbidden",
+  "reason": "rhythmic integrity",
+  "activation_authority": "outside_git_context",
+  "default_state": "inert"
+}
